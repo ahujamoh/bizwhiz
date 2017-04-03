@@ -46,18 +46,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="83" column="117" selection-start-line="83" selection-start-column="117" selection-end-line="83" selection-end-column="117" />
+            <state relative-caret-position="135">
+              <caret line="171" column="60" selection-start-line="171" selection-start-column="60" selection-end-line="171" selection-end-column="60" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#1;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#2;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#22045#22398#0" expanded="false" />
-                <marker date="1491250039000" expanded="false" signature="8808:9175" ph="..." />
-                <marker date="1491250039000" expanded="false" signature="9227:9359" ph="..." />
-                <marker date="1491250039000" expanded="false" signature="9445:10110" ph="..." />
-                <marker date="1491250039000" expanded="false" signature="10173:10838" ph="..." />
+                <element signature="e#22111#22464#0" expanded="false" />
+                <element signature="e#23621#26305#0" expanded="false" />
+                <marker date="1491250885000" expanded="false" signature="8874:9241" ph="..." />
+                <marker date="1491250885000" expanded="false" signature="9293:9425" ph="..." />
+                <marker date="1491250885000" expanded="false" signature="9511:10176" ph="..." />
+                <marker date="1491250885000" expanded="false" signature="10239:10904" ph="..." />
               </folding>
             </state>
           </provider>
@@ -308,7 +308,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24952741" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32905483" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -367,13 +367,13 @@
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#1;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#22045#22398#0" expanded="false" />
-            <marker date="1491250039000" expanded="false" signature="8808:9175" ph="..." />
-            <marker date="1491250039000" expanded="false" signature="9227:9359" ph="..." />
-            <marker date="1491250039000" expanded="false" signature="9445:10110" ph="..." />
-            <marker date="1491250039000" expanded="false" signature="10173:10838" ph="..." />
+            <element signature="e#22111#22464#0" expanded="false" />
+            <element signature="e#23621#26305#0" expanded="false" />
+            <marker date="1491250885000" expanded="false" signature="8874:9241" ph="..." />
+            <marker date="1491250885000" expanded="false" signature="9293:9425" ph="..." />
+            <marker date="1491250885000" expanded="false" signature="9511:10176" ph="..." />
+            <marker date="1491250885000" expanded="false" signature="10239:10904" ph="..." />
           </folding>
         </state>
       </provider>
@@ -470,18 +470,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="83" column="117" selection-start-line="83" selection-start-column="117" selection-end-line="83" selection-end-column="117" />
+        <state relative-caret-position="135">
+          <caret line="171" column="60" selection-start-line="171" selection-start-column="60" selection-end-line="171" selection-end-column="60" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#1;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#22045#22398#0" expanded="false" />
-            <marker date="1491250039000" expanded="false" signature="8808:9175" ph="..." />
-            <marker date="1491250039000" expanded="false" signature="9227:9359" ph="..." />
-            <marker date="1491250039000" expanded="false" signature="9445:10110" ph="..." />
-            <marker date="1491250039000" expanded="false" signature="10173:10838" ph="..." />
+            <element signature="e#22111#22464#0" expanded="false" />
+            <element signature="e#23621#26305#0" expanded="false" />
+            <marker date="1491250885000" expanded="false" signature="8874:9241" ph="..." />
+            <marker date="1491250885000" expanded="false" signature="9293:9425" ph="..." />
+            <marker date="1491250885000" expanded="false" signature="9511:10176" ph="..." />
+            <marker date="1491250885000" expanded="false" signature="10239:10904" ph="..." />
           </folding>
         </state>
       </provider>
