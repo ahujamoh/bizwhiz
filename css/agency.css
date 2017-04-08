@@ -543,6 +543,11 @@ section h3.section-subheading {
   margin: 0 auto;
   border: 7px solid white;
 }
+
+.team-member img:hover{
+  border: 7px solid deepskyblue;
+}
+
 .team-member h4 {
   margin-top: 25px;
   margin-bottom: 0;
@@ -698,7 +703,7 @@ ul.social-buttons li a:active {
   right: 25px;
   cursor: pointer;
 }
-.portfolio-modal .close-modal:hover {
+.portfolio-modal .close-modal:hover .modal:hover{
   opacity: 0.3;
 }
 .portfolio-modal .close-modal .lr {
@@ -745,3 +750,4 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color:#31b0d5;
 }
+
